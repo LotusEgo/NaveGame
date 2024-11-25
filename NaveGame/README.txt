@@ -4,29 +4,34 @@ Adicionar texto que Mostra tecla de pausa                                       
 Criar condição de vitória                                                                    FOI*********
 
 
-
 -----Alteração ok
-Abrir aba de opções quando o jogo estiver pausado
-Criar ciclo de animação para inimigos
-Adicionar tipos de inimigo diferentes com alcances de velocidade menores
-Fazer player e projeteis emitir luz, que interage com inimigos
-Criar estrelas que aparecem e desaparecem em intervalos aleatórios e emitem luz
+Necessário:
 Trocar inimigos e o player para usarem imagens
-Implementar leaderboard que salva os 10 maiores scores e possibilita colocar nome de até 5 caracteres
-Player para de atirar quando troca direções
-Definir limite de spawn de inimigos
-Efeito quando ocorre colisão de inimigo com projetil ou com player
+Criar ciclo de animação para inimigos (Tornar círculos que giram a uma velocidade constante em ângulo aleatório?)
 Implementar método de alteração de controles
-Música para menu, jogo e derrota, pausar quando jogo pausar
-Adicionar imagem para menu principal, derrota, vitória, options e crédito
+Fazer player e projeteis emitir luz, que interage com inimigos
+
+Opcional:
 Implementar slider para modificar volume da música
+Abrir aba de opções quando o jogo estiver pausado
 Adicionar limite para movimentação da nave para não sair da tela
+Corrigir erro que faz player parar de atirar quando troca direções
+Adicionar imagem para menu principal, derrota, vitória, options e crédito
+Música para menu, jogo e derrota
+Implementar leaderboard que salva os 10 maiores scores e possibilita colocar nome de até 5 caracteres
+Efeito quando ocorre colisão de inimigo com projetil ou com player
+Definir limite de spawn de inimigos para não spawnar múltiplos inimigos ao mesmo tempo
+Adicionar tipos de inimigo diferentes com alcances de velocidade menores
+Criar estrelas que aparecem e desaparecem em intervalos aleatórios e emitem luz
+Pausar música quando jogo pausar
 
 
 -----Alteração talvez quebre o código
+Necessário:
 Alterar jogo para 3D
-Só deixar uma janela de jogo aberta de cada vez
 
+Opcional:
+Só deixar uma janela de jogo aberta de cada vez
 
 
 
